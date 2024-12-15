@@ -1,3 +1,5 @@
 ## Test changes from other user
 
 ## SOME MORE CHANGES
+
+### POPRAWIŁEM POLSKIE SYMBOLE
